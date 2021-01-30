@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/eposski/static/css/main.b2f0f378.chunk.css",
+    "main.js": "/eposski/static/js/main.3d92b2a1.chunk.js",
+    "main.js.map": "/eposski/static/js/main.3d92b2a1.chunk.js.map",
+    "runtime-main.js": "/eposski/static/js/runtime-main.28ba5e95.js",
+    "runtime-main.js.map": "/eposski/static/js/runtime-main.28ba5e95.js.map",
+    "static/js/2.fc09570a.chunk.js": "/eposski/static/js/2.fc09570a.chunk.js",
+    "static/js/2.fc09570a.chunk.js.map": "/eposski/static/js/2.fc09570a.chunk.js.map",
+    "index.html": "/eposski/index.html",
+    "static/css/main.b2f0f378.chunk.css.map": "/eposski/static/css/main.b2f0f378.chunk.css.map",
+    "static/js/2.fc09570a.chunk.js.LICENSE.txt": "/eposski/static/js/2.fc09570a.chunk.js.LICENSE.txt",
+    "static/media/InfoAnimacija.css": "/eposski/static/media/Info.b36a9c89.jpg",
+    "static/media/kliz.a6ffc78b.jpg": "/eposski/static/media/kliz.a6ffc78b.jpg",
+    "static/media/levo.33f8d4cb.png": "/eposski/static/media/levo.33f8d4cb.png",
+    "static/media/oprema.19e60ef3.jpg": "/eposski/static/media/oprema.19e60ef3.jpg",
+    "static/media/planinarenje.401c5fdc.jpg": "/eposski/static/media/planinarenje.401c5fdc.jpg",
+    "static/media/ski1.473105c3.png": "/eposski/static/media/ski1.473105c3.png",
+    "static/media/ski2.63fcb038.png": "/eposski/static/media/ski2.63fcb038.png",
+    "static/media/skikartica.4c4e2758.png": "/eposski/static/media/skikartica.4c4e2758.png",
+    "static/media/skiskola.180a7434.png": "/eposski/static/media/skiskola.180a7434.png",
+    "static/media/skistaza.fa436eb7.jpg": "/eposski/static/media/skistaza.fa436eb7.jpg",
+    "static/media/FormaK1.css": "/eposski/static/media/wallp.6c25ab85.jpg",
+    "static/media/HomeDodatak.css": "/eposski/static/media/wp-d1.291655da.jpg",
+    "static/media/HomeDodatak2.css": "/eposski/static/media/wp-d2.b461d080.jpg",
+    "static/media/Cene.css": "/eposski/static/media/zaCene.23e4e4c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ba5e95.js",
+    "static/js/2.fc09570a.chunk.js",
+    "static/css/main.b2f0f378.chunk.css",
+    "static/js/main.3d92b2a1.chunk.js"
+  ]
+}
