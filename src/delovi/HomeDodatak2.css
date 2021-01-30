@@ -1,0 +1,92 @@
+.home-info-dodatak2 {
+    color: #fff;
+    padding: 200px 0;
+    color: snow;
+    background: url('../img/wp-d2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    
+  }
+  
+  .info-red-dodatak2{
+    align-items: center;
+    display: flex;
+    flex-direction:row;
+    
+  }
+
+  
+  
+  
+  
+  .col-dodatak2 {
+    margin-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    flex: 1;
+    max-width: 50%;
+    flex-basis: 50%;
+    
+  }
+
+  .col-dodatak2:nth-child(1)
+  {
+    background-color: rgba(58, 137, 255, 0.637);
+    border-radius: 40px;
+    margin-right: 20px;
+    margin-left: 50px;
+  
+    
+  }
+  
+
+
+  
+  .info-text-dodatak2 {
+    max-width: 1500px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+    
+   
+    
+  }
+
+
+  p{
+      padding-bottom: 0px;
+     
+      padding-top: 50px;
+      font-size: 20px;
+  }
+
+ .dugme-dodatak2
+ {  
+     margin-bottom: 20px;
+ }
+  
+  
+  
+  
+ 
+  
+  .info-img-dodatak2 {
+    max-width: 555px;
+  }
+  
+  .ski2 {
+    max-width: 100%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 300px;
+    padding-right: 0;
+    transform: scale(1.1);
+  }
+  
+  /* img {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+  }   */

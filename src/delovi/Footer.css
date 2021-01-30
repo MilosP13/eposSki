@@ -1,0 +1,39 @@
+.main-footer
+{
+    color: snow;
+    background: linear-gradient(90deg, rgb(92, 195, 255) 0%, rgb(36, 104, 252) 100%);
+    padding-top: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.redd{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+
+.colF
+{
+    
+    flex: 50%;
+    text-decoration: none;
+}
+
+.redF
+{
+    text-align: center;
+    margin-top: -40px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
